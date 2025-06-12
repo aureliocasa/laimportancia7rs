@@ -1,0 +1,14 @@
+<html>
+<title> que son Las 7R´S </title>
+<body style="background-color:rgb(144 238, 144);">
+<h1 style="color:#000080; font-size:50px; text-align:center;">Las 7R's Aplicadas en mi Comunidad</h1>
+<h1><em>¿Qué son las 7Rs?</em></h1>
+<h2 style="font-style: italic; font-family: Georgia, serif; color: #2E8B57; margin-top: 10px;">Las 7R's son una evolución de las famosas 3R (Reducir, Reutilizar, Reciclar) y representan principios ecológicos para un estilo de vida más sostenible.</h2>
+<img src="ecologia.webp"float: right; margin-left: 5px;" width="300" height="200">
+</h2>
+<h2>Dentro de este programa, la Oficina Verde de la Universidad de Burgos (UBUverde) presenta esta Conferencia Ambiental presencial y online “Las siete R básicas de la Economía Circular: rediseñar, reducir, reutilizar, reparar, renovar, recuperar y reciclar”, en cuyo recorrido nos acompañará el ponente Luis Marcos, profesor e investigador de la Universidad de Burgos (UBU), en la cual dirige su Oficina Verde (UBUverde) centrando su labor docente e investigadora en temas vinculados al Medio Ambiente y la Nueva Ruralidad; un auténtico convencido del poder que la Economía Circular tiene para frenar el agotamiento de materias primas, el despilfarro energético y la generación incontrolable de todo tipo de residuos.</h2>
+<img src="las4.jpg"float: right; margin-left: 5px;" width="300" height="200">
+<br></br>
+<video src="video.mp4" width="360" heigth="340" controls></video>
+<a href=
+<br></br>
